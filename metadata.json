@@ -1,0 +1,6 @@
+{
+  "name": "KisanMitra AI",
+  "description": "Multilingual agritech and resource advisory assistant for Indian farmers with live weather, soil health, mandi prices, and voice or photo guidance.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
